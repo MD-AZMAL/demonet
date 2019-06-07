@@ -19,3 +19,10 @@ PeerOrgs: # organisation managing peers
       Count: 2
     Users:
       Count: 1
+
+  - Name: Org3
+    Domain: org3.example.com
+    Template: 
+      Count: 1
+    Users:
+      Count: 1
